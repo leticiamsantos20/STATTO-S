@@ -104,8 +104,8 @@ h1 {
 p {
     width: 520px;
     position: absolute;
-    top: 65px;
-    left: 100px;
+    top: 300px;
+    left: 590px;
     letter-spacing: 2px;
     line-height: 35px;
 }
@@ -115,6 +115,6 @@ p {
     cursor: pointer;
     float: right;
     position: relative;
-    top: 370px;
+    top: 490px;
     right: -120px;
 }
